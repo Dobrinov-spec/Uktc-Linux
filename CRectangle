@@ -18,3 +18,4 @@ printf("P = %.2f\n",P);
 printf("S = %.2f\n",S);
 return 0;
 }
+//komentar
